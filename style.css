@@ -12,6 +12,10 @@ body {
 	font-size: 2em;
 }
 
+.center {
+    padding: 300px 0;
+}
+
 h1 {
 	margin: 0px;
 }
